@@ -1,4 +1,5 @@
-# CodeAlpha_Web-Scraping-task-1-in-Data-Analytics
+# CodeAlpha_Web-Scraping-task-1-
+
 A data analytics project focused on extracting, cleaning, and analyzing real-world data from the web using web scraping techniques.
 This project demonstrates how to automate data collection, perform exploratory data analysis (EDA), and visualize insights using Python.
 
